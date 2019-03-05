@@ -1,2 +1,2 @@
-# ShinyTurorial_test
+# ShinyTutorial_test
 Rstudio tutorial to host Shiny App in GitHub
